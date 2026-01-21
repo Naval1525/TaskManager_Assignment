@@ -1,5 +1,7 @@
 # Task Manager - Frontend Application
 
+🌐 **Live Demo**: [https://task-manager-assignment-b4w9.vercel.app/](https://task-manager-assignment-b4w9.vercel.app/)
+
 A complete frontend-only Task Manager application built with Next.js, TypeScript, and Zustand. Features role-based access control with Admin, Manager, and Developer roles.
 
 ## Features

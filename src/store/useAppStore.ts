@@ -29,9 +29,9 @@ export interface AppState {
  */
 function seedData(): { users: User[]; projects: Project[] } {
   const users: User[] = [
-    { id: "u1", name: "Admin Naval", userType: "Admin" },
-    { id: "u2", name: "Manager Naval", userType: "Manager" },
-    { id: "u3", name: "Dev Naval", userType: "Developer" },
+    { id: "u1", name: "Admin User", userType: "Admin" },
+    { id: "u2", name: "Manager User", userType: "Manager" },
+    { id: "u3", name: "Developer User", userType: "Developer" },
   ];
 
   const projects: Project[] = [
